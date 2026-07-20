@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there 👋 I'm Ali Adnan Asghar
 
-<!--
-**aliadnanasghar/aliadnanasghar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer with 4+ years of experience building scalable backend systems for blockchain, fintech, AI, and marketplace platforms.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Design scalable backend architectures
+- Build distributed systems and microservices
+- Develop high-performance REST APIs
+- Optimize backend performance and reliability
+- Design event-driven systems
+- Automate CI/CD and cloud deployments
+
+## 🛠 Tech Stack
+
+### Languages
+- Golang
+- TypeScript
+- JavaScript
+
+### Backend
+- NestJS
+- Gin
+- Express.js
+- REST API
+- GraphQL
+- WebSockets
+
+### Cloud & DevOps
+- AWS (EC2, RDS, SQS, SES, S3)
+- Docker
+- GitHub Actions
+- CircleCI
+- Linux
+
+### Databases
+- PostgreSQL
+- MongoDB
+- Redis
+
+### Architecture
+- Distributed Systems
+- Microservices
+- Event-Driven Architecture
+- Background Workers
+- System Design
+
+## 🌍 Open To
+
+- Backend Engineer
+- Senior Backend Engineer
+- Platform Engineer
+- Distributed Systems Engineer
+
+📍 Open to relocation
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/ali-adnan-asghar-753231185/
+- Email: aliadnan.asghar@gmail.com
