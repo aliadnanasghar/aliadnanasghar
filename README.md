@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Ali Adnan Asghar
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliadnanasghar&show_icons=true&theme=github_dark)
 Senior Backend Engineer with 4+ years of experience building scalable backend systems for blockchain, fintech, AI, and marketplace platforms.
 
 ## 🚀 What I Do
